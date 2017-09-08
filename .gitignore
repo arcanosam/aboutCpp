@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#my-ignores
+.directory
+.kdev4/
+build/
