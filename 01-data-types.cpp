@@ -17,6 +17,8 @@ int main(){
     bool flag{true};
     flag = false;
     flag = 7;
+    
+    printf("Fim do Programa");
 
     return 0;
 }
